@@ -1,0 +1,13 @@
+.navbar-logo{
+    text-decoration: none;
+    font-size: 28px;
+    font-weight: 700;
+    color:  #295091;
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 2px;
+}
+
+.my-navbar{
+    background-color: #F6F6F9;
+}
